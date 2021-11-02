@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on coding and programming
 - 📫 Email : riandagolabs@gmail.com
-basbdfabsdbasdf
 ---------------------------------------------------------
 <!---
 saepulohrian/saepulohrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
